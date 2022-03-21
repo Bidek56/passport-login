@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: 'MONGO_LOGIN'
+    mongoURI: 'mongodb://root:example@localhost:27017/'
 };
